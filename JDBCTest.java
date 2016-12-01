@@ -7,7 +7,7 @@ class JDBCTest {
  
     private static final String user = "root";
  
-    private static final String password = "mj110403";
+    private static final String password = "";
  
     public static void main(String args[]) {
         try {
